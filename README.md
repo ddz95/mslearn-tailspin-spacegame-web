@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/dawiddziedzic95/Learning%20path/_apis/build/status/ddz95.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/dawiddziedzic95/Learning%20path/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
